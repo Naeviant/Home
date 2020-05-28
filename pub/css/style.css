@@ -1,0 +1,13 @@
+#border {
+    padding: 100px;
+}
+
+.card {
+    transition: all 0.1s ease 0s;
+    top: 0;
+}
+
+.card:hover {
+    position: relative;
+    top: -5px;
+}
